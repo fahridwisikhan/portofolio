@@ -1,0 +1,8 @@
+/* Definisikan custom font-family */
+.font-playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
+}
